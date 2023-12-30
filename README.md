@@ -1,17 +1,39 @@
-# Digital Watch ⌚
+<h1 align="center">Relógio Digital ⌚</h1>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-#### 🔹 About this Project:
+<br>
 
-In this repository I created the famous Digital clock
+## 🚀 Tecnologias
 
-#### 🔹 Technologies Used:
+Esse repositório contém essas tais tecnologias :
 
 - HTML
 - CSS
 - JavaScript
 
-#### 🔹 Project Layout:
-https://betafontes.github.io/digital-watch-js/
+## 💻 Projeto
+
+Neste repositório criei o famoso relógio digital utilizando JavaScript
+
+
+## 🖼️ Layout
+
 
 ![image](https://user-images.githubusercontent.com/70981960/183305070-bbd6abba-2ac3-4ce4-a8c3-350aed1517c6.png)
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+Feito com ♥ by betafontes :wave: 
